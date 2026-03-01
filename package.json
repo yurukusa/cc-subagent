@@ -1,0 +1,25 @@
+{
+  "name": "cc-subagent",
+  "version": "1.0.0",
+  "description": "How many subagents does your Claude Code spawn? Session count, adoption rate, and per-project breakdown.",
+  "type": "module",
+  "bin": {
+    "cc-subagent": "./cli.mjs"
+  },
+  "scripts": {
+    "start": "node cli.mjs"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai",
+    "developer-tools",
+    "analytics",
+    "agents"
+  ],
+  "author": "yurukusa",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
