@@ -56,4 +56,4 @@ Drop your `~/.claude` folder into [cc-subagent on the web](https://yurukusa.gith
 
 ---
 
-Part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 55 free tools for Claude Code
+Part of [cc-toolkit](https://yurukusa.github.io/cc-toolkit/) — 60 free tools for Claude Code
